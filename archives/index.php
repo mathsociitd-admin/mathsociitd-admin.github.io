@@ -39,7 +39,7 @@
   	        	foreach($years as $y){
   	        		echo '
   	        			<div class="col-lg-4 col-sm-6">
-  	        			  <a class="btn-1 block center" href="'.$y.'">'.$y.'</a>
+  	        			  <a class="btn-1 block center" href="'.$y.'/">'.$y.'</a>
   	        			</div>
   	        		';
   	        	}
