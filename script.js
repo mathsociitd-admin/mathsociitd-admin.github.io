@@ -71,9 +71,9 @@ function page_switch(val){
 				    		$(".for-light-text").css("display","none");
 				    		$(".for-dark-text").css("display", "block");
 
-				    		$('meta[name="theme-color"]').attr("content","#000");
-				    		$('meta[name="msapplication-navbutton-color"]').attr("content","#000");
-				    		$('meta[name="apple-mobile-web-app-status-bar-style"]').attr("content","#000");
+				    		$('meta[name="theme-color"]').attr("content","#fff");
+				    		$('meta[name="msapplication-navbutton-color"]').attr("content","#fff");
+				    		$('meta[name="apple-mobile-web-app-status-bar-style"]').attr("content","#fff");
 				    	}
 				    }
 
